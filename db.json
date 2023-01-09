@@ -5,7 +5,7 @@
       "name": "Ouicity",
       "position": "Lead Developer",
       "startDate": "December 2022",
-      "description": "A web app connecting urban stakeholders with an interactive approach built using Ruby on Rails, Bootstrap, Stimulus JS and MapBox API",
+      "description": "A web app connecting urban stakeholders with an interactive approach using MapBox API",
       "url": "http://ouicity.me",
       "github": "https://github.com/DariBerrie/ouicity",
       "toolIcons": [
@@ -28,7 +28,7 @@
       "name": "Loopy",
       "position": "Lead Developer",
       "startDate": "November 2022",
-      "description": "An Airbnb marketplace clone for fiber enthusiasts using Ruby on Rails, Bootstrap, JavaScript and Stripe API",
+      "description": "An Airbnb marketplace clone for fiber enthusiasts using Stripe API",
       "url": "http://www.loopy.website",
       "github": "https://github.com/DariBerrie/loopyex",
       "toolIcons": [
@@ -49,7 +49,7 @@
       "name": "Evidens",
       "position": "Solo Developer",
       "startDate": "December 2022",
-      "description": "A news/blog app created over one day during a solo product sprint for France's WebDev professional certification using Ruby on Rails, Bootstrap and Javascript.",
+      "description": "A news/blog app created over one day during a solo product sprint for France's WebDev professional certification",
       "url": "https://github.com/DariBerrie/news-app",
       "github": "https://github.com/DariBerrie/news-app",
       "toolIcons": [
@@ -69,7 +69,7 @@
       "name": "Maille Stash",
       "position": "Solo Developer",
       "startDate": "January 2023",
-      "description": "A visual collection of the my yarn inventory built with Node.js and React",
+      "description": "A visual collection of the my yarn inventory",
       "url": "#",
       "github": "#",
       "toolIcons": [
