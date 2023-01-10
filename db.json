@@ -70,8 +70,8 @@
       "position": "Solo Developer",
       "startDate": "January 2023",
       "description": "A visual collection of the my yarn inventory",
-      "url": "#",
-      "github": "#",
+      "url": "https://github.com/DariBerrie/maille-stash",
+      "github": "https://github.com/DariBerrie/maille-stash",
       "toolIcons": [
         "devicon-react-original colored",
         "devicon-nodejs-plain colored",
@@ -81,7 +81,7 @@
         "devicon-javascript-plain colored",
         "devicon-bootstrap-plain colored"
       ],
-      "img": "ouicity-horizontal.jpg"
+      "img": "maille-stash-horizontal.jpg"
     }
   ],
   "jobs": [
