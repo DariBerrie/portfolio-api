@@ -66,12 +66,12 @@
     },
     {
       "id": 4,
-      "name": "Maille Stash",
+      "name": "Cover Letter Bot",
       "position": "Solo Developer",
       "startDate": "January 2023",
-      "description": "A visual collection of the my yarn inventory",
-      "url": "https://github.com/DariBerrie/maille-stash",
-      "github": "https://github.com/DariBerrie/maille-stash",
+      "description": "**In Progress** A tongue-in-cheek app to poke fun at the hiring process using OpenAI",
+      "url": "https://github.com/DariBerrie/cover-letter-bot",
+      "github": "https://github.com/DariBerrie/cover-letter-bot",
       "toolIcons": [
         "devicon-react-original colored",
         "devicon-nodejs-plain colored",
@@ -81,7 +81,7 @@
         "devicon-javascript-plain colored",
         "devicon-bootstrap-plain colored"
       ],
-      "img": "maille-stash-horizontal.jpg"
+      "img": "cover-horizontal.jpg"
     }
   ],
   "jobs": [
