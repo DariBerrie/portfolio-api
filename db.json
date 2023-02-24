@@ -2,6 +2,27 @@
   "projects": [
     {
       "id": 1,
+      "name": "Loopy",
+      "position": "Lead Developer",
+      "startDate": "November 2022",
+      "description": "An Airbnb marketplace clone for fiber enthusiasts using Stripe API created at Le Wagon",
+      "url": "http://www.loopy.website",
+      "github": "https://github.com/DariBerrie/loopyex",
+      "toolIcons": [
+        "devicon-ruby-plain colored",
+        "devicon-rails-plain colored",
+        "devicon-postgresql-plain colored",
+        "devicon-heroku-plain colored",
+        "devicon-html5-plain colored",
+        "devicon-css3-plain colored",
+        "devicon-sass-original colored",
+        "devicon-javascript-plain colored",
+        "devicon-bootstrap-plain colored"
+      ],
+      "img": "loopy-horizontal.jpg"
+    },
+    {
+      "id": 2,
       "name": "Ouicity",
       "position": "Lead Developer",
       "startDate": "December 2022",
@@ -22,27 +43,6 @@
         "devicon-photoshop-plain colored"
       ],
       "img": "ouicity-horizontal.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Loopy",
-      "position": "Lead Developer",
-      "startDate": "November 2022",
-      "description": "An Airbnb marketplace clone for fiber enthusiasts using Stripe API created at Le Wagon",
-      "url": "http://www.loopy.website",
-      "github": "https://github.com/DariBerrie/loopyex",
-      "toolIcons": [
-        "devicon-ruby-plain colored",
-        "devicon-rails-plain colored",
-        "devicon-postgresql-plain colored",
-        "devicon-heroku-plain colored",
-        "devicon-html5-plain colored",
-        "devicon-css3-plain colored",
-        "devicon-sass-original colored",
-        "devicon-javascript-plain colored",
-        "devicon-bootstrap-plain colored"
-      ],
-      "img": "loopy-horizontal.jpg"
     },
     {
       "id": 3,
@@ -87,11 +87,11 @@
   "jobs": [
     {
       "id": 1,
-      "title": "Customer Happiness Manager",
-      "company": "Reedsy",
-      "dates": "2020 to present",
-      "description": "Providing support to authors and creative professionals on the platform while optimizing conversion. Created new standards for tracking conversion and analyzing data from reviews and Net Promoter Scores.",
-      "takeaway": "Listening & understanding | Strong written communication | Presentation | Problem-solving | Research | Dispute Resolution "
+      "title": "Digital Media Manager",
+      "company": "Club Med Resorts",
+      "dates": "2015-2017",
+      "description": "Oversaw the digital communication and social media accounts for top resorts in Florida, Mexico and Guadeloupe. Transitioned resorts to an information and promotional resort television channel.",
+      "takeaway": "Storytelling | Aesthetic presentation | Resourcefulness | Technical aptitude | Self-directed"
     },
     {
       "id": 2,
@@ -103,11 +103,19 @@
     },
     {
       "id": 3,
-      "title": "Digital Media Manager",
-      "company": "Club Med Resorts",
-      "dates": "2015-2017",
-      "description": "Oversaw the digital communication and social media accounts for top resorts in Florida, Mexico and Guadeloupe. Transitioned resorts to an information and promotional resort television channel.",
-      "takeaway": "Storytelling | Aesthetic presentation | Resourcefulness | Technical aptitude | Self-directed"
+      "title": "Customer Happiness Manager",
+      "company": "Reedsy",
+      "dates": "2020 to present",
+      "description": "Providing support to authors and creative professionals on the platform while optimizing conversion. Created new standards for tracking conversion and analyzing data from reviews and Net Promoter Scores.",
+      "takeaway": "Listening & understanding | Strong written communication | Presentation | Problem-solving | Research | Dispute Resolution "
+    },
+    {
+      "id": 4,
+      "title": "Teaching Assistant",
+      "company": "Le Wagon",
+      "dates": "January 2023 to present",
+      "description": "Guiding and mentoring students on their journey to becoming full-stack web developers",
+      "takeaway": "Problem-solving | Instructive | Positive | Social & Emotional Intelligence | Adaptability"
     }
   ],
   "interests": [
