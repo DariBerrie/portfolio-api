@@ -82,6 +82,27 @@
         "devicon-bootstrap-plain colored"
       ],
       "img": "cover-horizontal.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Illuminate",
+      "position": "Lead Developer",
+      "startDate": "March 2023",
+      "description": "A QR code scanning app improving the beauty shopping experience for the visually-impaired using ZXing Library",
+      "url": "https://illuminate-us.onrender.com/",
+      "github": "https://github.com/SIFAR101/Illuminate",
+      "toolIcons": [
+        "devicon-ruby-plain colored",
+        "devicon-rails-plain colored",
+        "devicon-postgresql-plain colored",
+        "devicon-figma-plain colored",
+        "devicon-html5-plain colored",
+        "devicon-css3-plain colored",
+        "devicon-sass-original colored",
+        "devicon-javascript-plain colored",
+        "devicon-bootstrap-plain colored"
+      ],
+      "img": "illuminate-horizontal.png"
     }
   ],
   "jobs": [
